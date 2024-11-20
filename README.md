@@ -1,7 +1,3 @@
-Here’s a well-structured README file template for your project:
-
----
-
 # **Research Simplified: AI-Powered System for Researchers**
 
 Welcome to the repository for our AI-powered research assistance platform! This system is designed to revolutionize the way researchers explore, summarize, and interact with academic literature. By leveraging state-of-the-art technologies in natural language processing and information retrieval, we provide a user-friendly platform tailored specifically for the academic and research community.
